@@ -1,5 +1,4 @@
 ZED-F9R Breakout and pHAT Boards
-
 ========================================
 
 <table class="table table-hover table-striped table-bordered">
@@ -8,8 +7,8 @@ ZED-F9R Breakout and pHAT Boards
    <td><a href="https://www.sparkfun.com/products/16475"><img src="https://cdn.sparkfun.com//assets/parts/1/5/3/3/9/16475-SparkFun_GPS-RTK_Dead_Reckoning_pHAT_for_Raspberry_Pi-01.jpg" alt=""></a></td>
   </tr>
   <tr align="center">
-    <td><i>SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic) [ <a href="https://www.sparkfun.com/products/16344">GPS-16344</a> ]</i></td>
-    <td><i>SparkFun GPS-RTK Dead Reckoning pHAT for Raspberry Pi [ <a href="https://www.sparkfun.com/products/16475">GPS-16475</a> ] </i></td>
+    <td><i>SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic) <br />[ <a href="https://www.sparkfun.com/products/16344">GPS-16344</a> ]</i></td>
+    <td><i>SparkFun GPS-RTK Dead Reckoning pHAT for Raspberry Pi <br />[ <a href="https://www.sparkfun.com/products/16475">GPS-16475</a> ] </i></td>
   </tr>
 </table>
 
